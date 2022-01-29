@@ -13,7 +13,11 @@ These results show that a large majority of revenue is generated from the Urban 
 - Suburban: 490 drivers provided 625 rides
 - Rural: 78 drivers provided 125 rides
 
-The total fares by city type data in the multi-line graph shows the weekly average fares for a four month period. It is not surprising that the Urban city type provides a much higher weekly average fare than the other two city types given the higher number of rides and drivers in the urban area.
+The total fares by city type data in the multi-line graph shows the weekly average fares for a four month period. 
+
+![MultiLineGraph](https://github.com/Bscheinin/PyBer_Analysis/blob/main/Resources/MultiLinePlot.PNG)
+
+It is not surprising that the Urban city type provides a much higher weekly average fare than the other two city types given the higher number of rides and drivers in the urban area.
 
 ## Summary
 The inital data analysis and deeper look into the total fare by city type information provides the basis for three business recommendations. the first recommendation is for the Pyber to continue to maintain its strong presence in Urban cities to ensure ongoing revenue. Secondly, increased revenue and market share gains may be realized by additional investment in the Suburban and Rual areas as the fare per ride and fare per driver for these city types is much higher than the Urban city type. This strategy has been used by other industry leaders to ensure increased revenue growth in higher fare areas while maintaining the core business of serving urban areas. Finally, the total fares data should be assessed again once an entire year's worth of data is available. This will allow seasonal trends to be considered before further recommendations are made for the different city types.
