@@ -5,6 +5,7 @@ The PyBer ride sharing company has requested an analysis of ride-sharing data by
 
 ## Results
 The results of the analysis of the combined data sources is shown in the chart below.
+
 ![Pyber_Summary_Data](https://github.com/Bscheinin/PyBer_Analysis/blob/main/Resources/pyber_summary_data.PNG)
 
 These results show that a large majority of revenue is generated from the Urban city types at 61% of total revenue. The Suburban city types accounts for 30% of revenue, while the Rural city types make up only 7% of revenues. In addition, this chart shows the Average Fare Per Ride and Average Fare Per Driver for the three city types. These revenue figures are not surprising given the total rides and total drivers comparisons:
