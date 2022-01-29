@@ -15,7 +15,7 @@ These results show that a large majority of revenue is generated from the Urban 
 
 The total fares by city type data in the multi-line graph shows the weekly average fares for a four month period. 
 
-![MultiLineGraph](https://github.com/Bscheinin/PyBer_Analysis/blob/main/Resources/MultiLinePlot.PNG)
+![MultiLineGraph](https://github.com/Bscheinin/PyBer_Analysis/blob/main/Resources/MultiLinePlot.png)
 
 It is not surprising that the Urban city type provides a much higher weekly average fare than the other two city types given the higher number of rides and drivers in the urban area.
 
